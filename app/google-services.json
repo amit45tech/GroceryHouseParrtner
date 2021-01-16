@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078066578931",
+    "firebase_url": "https://groceryhouse-db87e.firebaseio.com",
+    "project_id": "groceryhouse-db87e",
+    "storage_bucket": "groceryhouse-db87e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078066578931:android:5ed27bde140bacabc8fe86",
+        "android_client_info": {
+          "package_name": "com.sarkstechsolution.ghstorepartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078066578931-5rm6q0is52aigsm56c7fuklmoq0dk1no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaachhV0fRg_E_6ZbtkkNYZdasZtcbF0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078066578931-5rm6q0is52aigsm56c7fuklmoq0dk1no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
